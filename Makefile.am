@@ -4,8 +4,8 @@ SUBDIRS = src po
 
 EXTRA_DIST = \
 	autogen.sh \
-	yosrites.glade.bak \
-	yosrites.glade.bakp
+	recagent.glade \
+	recagent.gladep
 
 install-data-local:
 	@$(NORMAL_INSTALL)
