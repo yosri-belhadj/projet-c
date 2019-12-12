@@ -2,7 +2,7 @@
 #include <string.h>
 #include "fonctions.h"
 #include <gtk/gtk.h>
-
+// Fedi is here
 enum
 {
   ID_RES,
