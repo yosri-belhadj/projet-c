@@ -1,0 +1,6 @@
+hotelA tunis 3 96 100,000000
+hotelB sousse 4 98 200,000000
+hotelC hammamet 5 48 300,000000
+hotelD tunis 5 45 350,000000
+hotelE tunis 5 50 350,000000
+hotelF tunis 5 50 30,000000

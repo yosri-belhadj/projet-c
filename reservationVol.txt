@@ -1,0 +1,9 @@
+aa bb 123 1 Aéroport_international_de_Tunis_Carthage Aéroport_international_de_London 11 1 2019 50000,000000 1 1433347520
+arz dfs 123 1 Aéroport_international_de_Tunis_Carthage Aéroport_international_de_London 11 1 2019 50000,000000 1 480454928
+arz dfs 123 1 Aéroport_international_de_Tunis_Carthage Aéroport_JFK 11 1 2019 50000,000000 1 480454928
+arz dfs 123 1 Aéroport_international_de_Tunis_Carthage Aéroport_JFK 11 1 2019 50000,000000 1 48045492
+ben nour amal00 006598 2 Aéroport_international_de_Tunis_Carthage Aéroport_international_de_London 11 1 2019 600,000000 1 -1306787680
+   3 Aéroport_international_de_Tunis_Carthage Aéroport_international_de_London 11 1 2019 900,000000 1
+   1 Aéroport_international_de_Tunis_Carthage Aéroport_international_de_Tunis_Carthage 11 1 2019 0,000000 2
+   1 Aéroport_international_de_Tunis_Carthage Aéroport_international_de_London 11 1 2019 300,000000 2
+rrr fg jioik 1 Aéroport_international_de_Tunis_Carthage Aéroport_international_de_London 11 1 2019 300,000000 1

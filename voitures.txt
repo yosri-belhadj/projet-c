@@ -1,0 +1,11 @@
+kia tunis 100.000
+polo tunis 80.000
+citroen tunis 80.000
+kia_A sousse 90.00
+kia_B sousse 90.00
+punto djerba 100.000 
+voia tunis 120.0
+voib tunis 54.0
+voic tunis 4.000
+void tunis 454.000
+voif tunis 546.000
